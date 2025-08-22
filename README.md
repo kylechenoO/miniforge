@@ -1,0 +1,2 @@
+# miniforge
+Automaticlly install Miniforge
